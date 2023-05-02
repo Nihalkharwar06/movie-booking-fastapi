@@ -1,0 +1,4 @@
+pydantic
+fastapi
+google.cloud.firestore
+uvicorn
